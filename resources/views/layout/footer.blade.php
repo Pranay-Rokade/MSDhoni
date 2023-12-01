@@ -26,7 +26,9 @@ footer p {
   <div class="content">
     <!-- Your main content goes here -->
   </div>
-
+<footer>
+    Copyright2023
+</footer>
 
 </body>
 </html>
